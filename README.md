@@ -7,5 +7,8 @@ press q to exit any file.
 
 Enjoy your invisibility.
 
+Read and understand how it works - https://medium.com/@syedareehaquasar/invisible-cloak-opencv-project-ce3a613f3ed3?source=friends_link&sk=b02c6635cf3368e284c63db33e6675b9
+
+
 references:
 https://medium.com/@harshilp/invisibility-cloak-using-opencv-8b07142c83d6
